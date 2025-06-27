@@ -12,7 +12,7 @@ On my GitHub, you'll find a collection of projects that showcase my interests an
 I'm continuously learning and honing my skills in both Python development and Machine Learning. I believe in the importance of staying updated with the latest trends and technologies in this fast-paced industry.
 
 - 📫 Get in Touch:
-Feel free to explore my repositories and connect with me on LinkedIn [https://www.linkedin.com/in/mohid-abdullah-841b83286/]. I'm open to collaborations, discussions, and sharing knowledge with fellow developers and Machine Learning enthusiasts.
+Feel free to explore my repositories and connect with me on LinkedIn [https://www.linkedin.com/in/mohid-abdullah-147a252a7/]. I'm open to collaborations, discussions, and sharing knowledge with fellow developers and Machine Learning enthusiasts.
 
 - 🔗 Let's Connect and Collaborate!
 
